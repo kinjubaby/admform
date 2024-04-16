@@ -1,0 +1,39 @@
+table tr td{
+    background: rgba(208, 106, 149, 0.72);
+}
+body{
+    background-color: rgba(226, 160, 193, 0.837);
+}
+header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    color: rgba(204, 11, 91, 0.72);
+    text-align: center;
+    text-shadow: 5px 5px 4px grey;
+    text-indent: 3%
+}
+form{
+    color: black;
+    font-size: large;
+}
+.btn1{
+    background-color: rgba(208, 106, 149, 0.72);
+    border-radius: 5px;
+    font-size: 20px;
+}
+.btn1:hover{
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.932);
+    color: grey;
+}
+#reset{
+    background-color: rgba(208, 106, 149, 0.72);
+    border-radius: 5px;
+    font-size: 20px;
+}
+#reset:hover{
+    cursor:zoom-in;
+    background-color: black;
+    color: grey;
+}
